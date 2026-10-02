@@ -30,7 +30,7 @@ As duas tabelas foram unidas pelo `mql_id` (left join), mantendo todos os leads 
 - **Origem não rastreada:** o grupo com maior conversão (`unknown`, 1.099 leads, 16,3%) não tem a origem identificada. Corrigir o rastreamento é a recomendação prioritária, para descobrir de onde vêm os melhores contatos.
 - **Social com baixa qualidade de lead:** 1.350 leads, mas apenas 5,6% de conversão, cerca de metade da média.
 
-**Composição dos negócios fechados**
+**Composição dos negócios fechados**  
 Os 4 maiores segmentos concentram 41% dos negócios: `home_decor`, `health_beauty`, `car_accessories` e `household_utilities`.
 
 ## Limitações
