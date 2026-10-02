@@ -26,7 +26,7 @@ As duas tabelas foram unidas pelo `mql_id` (left join), mantendo todos os leads 
 - `paid_search`: 1.586 leads, 12,3% de conversão
 - `direct_traffic`: 499 leads, 11,2% de conversão
 
-paid_search e organic_search estão praticamente empatados em taxa. A diferença está no volume, que é maior no orgânico.
+`paid_search` e `organic_search` estão praticamente empatados em taxa. A diferença está no volume, que é maior no orgânico.
 
 **Pontos de atenção**
 - **Origem não rastreada:** o grupo com maior conversão (`unknown`, 1.099 leads, 16,3%) não tem a origem identificada. Corrigir o rastreamento é a recomendação prioritária, para descobrir de onde vêm os melhores contatos.
